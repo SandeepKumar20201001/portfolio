@@ -1,0 +1,122 @@
+
+/* ------------ CONTACT ---------- */
+
+
+#contact{
+
+    height: 90vh;
+    color: azure;
+    background-color: black;
+}
+
+#contact .row{
+    display: flex;
+    padding-left: 20px;
+}
+
+
+.contact-left{
+    /* display: flex; */
+    width: 30%;
+}
+
+
+.contact-left p{
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.contact-left p i{
+    margin-right: 15px;
+    font-size: 25px;
+    color: red;
+}
+
+.social-icons{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.social-icons a{
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 40px;
+    display: inline-block;
+    color: whitesmoke;
+    transition: transform 0.5s;
+}
+
+.social-icons a:hover{
+    font-size: 30px;
+    color: rgb(45, 208, 154);
+    transform: translateY(-5px);
+}
+
+.download-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 150px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+.download-btn:hover{
+    color: red;
+    background-color: greenyellow;
+}
+
+
+.contact-right{
+    /* display: flex; */
+    width: 60%;
+}
+
+.contact-right form{
+    width: 100%;
+}
+
+form input, form textarea{
+    width: 100%;
+    padding: 15px;
+    margin: 15px 0;
+    font-size: 20px;
+    outline: none;
+    color: #fff;
+    background-color: #262626;
+}
+
+#contact .submit-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 150px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px 10px;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+#contact .submit-btn:hover{
+    color: red;
+    background-color: greenyellow;
+    cursor: pointer;
+}
+
+#msg{
+    /* display: block; */
+    margin-top: 20px;
+    font-size: 20px;
+    color: green;
+}
