@@ -323,7 +323,7 @@ body {
 #rimg .cntrimg:nth-child(3){
     /* background-color: blue; */
     transform: translate(0,0) rotate(3deg);
-    background-image: url(https://source.unsplash.com/900x1600/?code,laptop);
+    background-image: url(https://source.unsplash.com/900x1600/?code,office);
     background-size: cover;
     background-position: center;
     object-fit: fill;
