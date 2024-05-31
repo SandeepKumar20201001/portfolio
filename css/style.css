@@ -303,7 +303,7 @@ body {
 #rimg .cntrimg:nth-child(1){
     /* background-color: yellow; */
     transform: translate(-60%,-30%) rotate(-10deg);
-    background-image: url(https://source.unsplash.com/1600x900/?girl,beach);
+    background-image: url(https://source.unsplash.com/1600x900/?webdeveloper,laptop);
     background-size: cover;
     background-position: center;
     object-fit: fill;
@@ -313,7 +313,7 @@ body {
 #rimg .cntrimg:nth-child(2){
     /* background-color: black; */
     transform: translate(-30%,-15%) rotate(-4deg);
-    background-image: url(https://source.unsplash.com/1600x900/?girl,gym);
+    background-image: url(https://source.unsplash.com/1600x900/?webdeveloper,laptop);
     background-size: cover;
     background-position: center;
     object-fit: fill;
@@ -323,7 +323,7 @@ body {
 #rimg .cntrimg:nth-child(3){
     /* background-color: blue; */
     transform: translate(0,0) rotate(3deg);
-    background-image: url(https://source.unsplash.com/900x1600/?girl,field);
+    background-image: url(https://source.unsplash.com/900x1600/?webdeveloper,laptop);
     background-size: cover;
     background-position: center;
     object-fit: fill;
